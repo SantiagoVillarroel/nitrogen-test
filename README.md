@@ -56,3 +56,4 @@ By default Nitrogen comes with an application called [sync](http://github.com/ru
 
   sync:go().
 # nitrogen-test
+# nitrogen-test
